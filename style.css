@@ -762,3 +762,8 @@ img {
   text-align: right;
   padding: 0 15px;
 }
+#project_id a{
+  text-decoration: none;
+  color: var(--text-black-700) ;
+  font-weight: 600;
+}
